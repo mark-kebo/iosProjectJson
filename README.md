@@ -1,6 +1,1 @@
-echo "# iosProjectJson" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/mark-kebo/iosProjectJson.git
-git push -u origin master
+Fork it and change db.json values or create a repo with a db.json file.
