@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15702" systemVersion="19B88" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Product" representedClassName="Product" codeGenerationType="class">
+        <attribute name="desc" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="image" optional="YES" attributeType="String"/>
+        <attribute name="location_lat" optional="YES" attributeType="String"/>
+        <attribute name="location_long" optional="YES" attributeType="String"/>
+        <attribute name="product" optional="YES" attributeType="String"/>
+        <userInfo/>
+    </entity>
+    <elements>
+        <element name="Product" positionX="261" positionY="189" width="128" height="133"/>
+    </elements>
+</model>
