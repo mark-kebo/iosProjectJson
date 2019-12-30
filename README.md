@@ -1,3 +1,6 @@
-Fork it and change db.json values or create a repo with a db.json file.
+Dmitry Vorozhbicki
 
+Programowanie urządzeń mobilnych - Apple iOS - UJ
+
+URL:
 https://my-json-server.typicode.com/mark-kebo/iosProjectJson/products
